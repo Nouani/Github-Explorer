@@ -36,8 +36,9 @@
         ],
         "no-use-before-define": "off",
         "prettier/prettier": "error",
-        "@typescript-eslint/explicit-module-boundary-types": "off",
-        "react/jsx-indent": "off"
+        "react/jsx-indent": "off",
+        "react/jsx-indent-props": "off",
+        "no-console": "off"
     },
     "settings": {
         "import/resolver": {
