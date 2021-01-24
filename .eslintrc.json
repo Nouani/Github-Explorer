@@ -38,7 +38,8 @@
         "prettier/prettier": "error",
         "react/jsx-indent": "off",
         "react/jsx-indent-props": "off",
-        "no-console": "off"
+        "no-console": "off",
+        "react/jsx-one-expression-per-line": "off"
     },
     "settings": {
         "import/resolver": {
